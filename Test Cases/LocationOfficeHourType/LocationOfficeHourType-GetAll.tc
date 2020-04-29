@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>LocationOfficeHourType-GetAll</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>84503e26-be15-40fd-9a9f-86b25a14fc2c</testCaseGuid>
+</TestCaseEntity>
